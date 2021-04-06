@@ -1,5 +1,5 @@
 import './App.css';
-import image from "./hroch.jpeg"
+import image from "./dunno.jpg"
 function App() {
   return (
     <div className="App">
